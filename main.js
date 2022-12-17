@@ -118,7 +118,7 @@ const templateMenu = [
         role: 'toggleDevTools'
       },
       {
-        label: 'Ajuda',
+        label: '❓ Ajuda',
         click() {
           shell.openExternal('https://github.com/luiizsilverio/js-notepad');
         }
