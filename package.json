@@ -1,0 +1,17 @@
+{
+  "name": "js-notepad",
+  "version": "1.0.0",
+  "description": "Editor de textos utilizando Electron",
+  "author": "Luiz Oliveira <luiiz.silverio@gmail.com>",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^22.0.0"
+  }
+}
