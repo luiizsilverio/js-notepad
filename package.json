@@ -5,7 +5,8 @@
   "author": "Luiz Oliveira <luiiz.silverio@gmail.com>",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "npx electron-packager ."
   },
   "keywords": [
     "electron"
